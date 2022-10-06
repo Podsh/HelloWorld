@@ -1,4 +1,4 @@
-﻿/*
+﻿
 // Вид 1
 void Method1 ()
 {
@@ -98,7 +98,7 @@ string newText = Replace(text, ' ', '|');
 Console.WriteLine(newText);
 Console.WriteLine();
 newText = Replace(newText, 'к', 'К');
-Console.WriteLine(newText); */
+Console.WriteLine(newText); 
 
 // Упорядочивание массива
 int[] arr = { 1, 5, 4, 3, 2, 6, 7, 1, 1 };
